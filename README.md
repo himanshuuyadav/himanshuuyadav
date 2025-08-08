@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
-<h3 align="center">A passionate full-stack developer and ML enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+ML+Explorer+%7C+Tech+Builder" alt="Typing SVG" />
-</p>
-
----
 
 ### 🧠 About Me
 
