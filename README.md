@@ -41,8 +41,6 @@
 - 🌐 [**GenCap**](https://github.com/himanshuuyadav/gencap)  
   Generates engaging captions using AI. Frontend built with React and integrated with backend APIs for text analysis.
 
-- ⛅ [**Weather App**](https://github.com/himanshuuyadav/weather-app)  
-  Simple and sleek React-based weather app using OpenWeatherMap API. Shows live weather by city name.
 
 
 ---
